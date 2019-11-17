@@ -7,6 +7,8 @@ postsBob.append("I just learned about lists!") #add a new post
 oldPostsAlice = ["Got the ticket", "On my way to Karlsruhe"]
 postsAlice = oldPostsAlice + postsAlice #add oldPostsAlice to the beginning of postsAlice
 print(postsAlice[-2:]) #print last two posts
+
+
  
 
 
